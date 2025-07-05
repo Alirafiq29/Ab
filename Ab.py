@@ -632,12 +632,9 @@ def linex():print(f'\r\33[38;5;37m━━━━━━━━━━━━━━━�
 def line():print(f'\r\n\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 
 os.system('clear')
-os.system('espeak -a 300 " Assalamu' 'olaikum"')
-os.system('espeak -a 300 " Your,   Real,  Name,"')
 
 # ✅ Main Function (Runs after successful login)
-os.system('espeak -a 300 "well,come to,mehedi, tools"')
-os.system('xdg-open https://www.facebook.com/mehedi7780.Ok.Bro')
+os.system('espeak -a 300 "well,come to,ALi, tools"')
 logo = f"""
 \033[0;92m
 
@@ -655,7 +652,7 @@ logo = f"""
 \33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mFACEBOOK   \33[38;5;160m▶  \033[1;97m ALi Hassan BLouCh 🔥
 \33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mWHATAPP    \33[38;5;160m▶  \033[1;97m03052962654
 \33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mFEATURE    \33[38;5;160m▶  \033[1;97mOLD CLONE 
-\33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;97mFREE \33[38;5;37m≫ \033[1;97m1
+\33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;97m1.1🔥 \33[38;5;37m≫ \033[1;97m1
 \33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
 
 def clear():
