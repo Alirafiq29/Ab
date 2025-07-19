@@ -599,7 +599,8 @@ for xd in range(10000):
    l='JioBrowser/1.4.7 Chrome/69.0.3497.100 Mobile Safari/537.36'
    uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
    ugen.append(uaku2)
-
+   
+os.system('xdg-open https://www.facebook.com/BaLoch0654 ')
 os.system('xdg-open https://facebook.com/groups/694691890038667/')
 os.system('xdg-open https://chat.whatsapp.com/JUnN2CfzDv0HEe6SSQMFYf?mode=ac_c')
 
@@ -649,10 +650,10 @@ logo = f"""
 \33[0;41m      [ WORKING WIFI AND MOBILE DATA ]       \033[0;92m
 
 \33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mFACEBOOK   \33[38;5;160m▶  \033[1;97m ALi  HASSAN 🔥👍🏻 
+\33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mFACEBOOK   \33[38;5;160m▶  \033[1;97m ALi  HASSAN 🔥
 \33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mWHATAPP    \33[38;5;160m▶  \033[1;97m03052962654
 \33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mFEATURE    \33[38;5;160m▶  \033[1;97mOLD CLONE 
-\33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;97m1.5
+\33[38;5;160m[\033[1;97m✔️\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;97m1.6
 \33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
 
 def clear():
@@ -999,4 +1000,4 @@ def login4(uid):
             else:continue
         loop+=1
     except Exception as e:time.sleep(30)
-main()
+main() 
