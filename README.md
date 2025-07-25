@@ -1,6 +1,6 @@
 pkg update
 pkg install git python -y 
 git clone https://github.com/Alirafiq29/Ab.git 
-cd Ab 
+cd AHB
 pip install requests bs4 rich 
-python Ab.py
+python AHB.py
